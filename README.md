@@ -7,8 +7,9 @@
 
 ## 자료공유
 ### 책
-#### 자율주행 관련
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
+- [Principles of Robot Motion](http://biorobotics.ri.cmu.edu/book/)
+- [Planning Algorithm](http://planning.cs.uiuc.edu/)
 
 ### 논문
 
